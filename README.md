@@ -5,7 +5,7 @@
   NAI exercises solutions
 </h1>
 
-This repository contains solutions to the exercises for the NAI (Basics of AI/Machine Learning)
+This repository contains solutions to the exercises for the NAI (Basics of AI/Machine Learning) course during studies on PJAIT.
 
 ---
 
