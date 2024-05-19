@@ -1,0 +1,10 @@
+Samoorganizujące się mapy
+ Osobny artykuł: Sieć Kohonena.
+Samoorganizujące się mapy (Self Organizing Maps, SOM), zwane też sieciami Kohonena, to sieci neuronów, z którymi są stowarzyszone współrzędne na prostej, płaszczyźnie lub w dowolnej n-wymiarowej przestrzeni.
+
+Uczenie tego rodzaju sieci polega na zmianach współrzędnych neuronów, tak, by dążyły one do wzorca zgodnego ze strukturą analizowanych danych. Sieci zatem „rozpinają się” wokół zbiorów danych, dopasowując do nich swoją strukturę.
+
+Sieci te stosowane są do klasyfikacji wzorców, np. głosek mowy ciągłej, tekstu, muzyki. Do najciekawszych zastosowań należy rozpinanie siatki wokół komputerowego modelu skanowanego obiektu.
+
+Inne
+Popularnymi modelami są również maszyny wektorów nośnych (SVM), sieci oparte na radialnych funkcjach bazowych (sieci radialne, RBF) i sieci przesyłające żetony (ang. counter-propagation neural networks). Stosunkowo nowym modelem są sieci oparte na neuronach impulsujących.

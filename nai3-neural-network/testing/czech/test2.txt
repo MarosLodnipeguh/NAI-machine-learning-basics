@@ -1,0 +1,9 @@
+První umělé neurony byly vytvořeny Warrenem McCullochem a Walterem v roce 1943.[7] Tyto neurony fungovaly tak, že byl jejich výstup 0 nebo 1 v závislosti na tom, jestli vážená suma vstupních signálů překročila prahovou hranici, nebo ne. Jejich teorie byla, že takový neuron v principu spočte jakoukoli aritmetickou či logickou funkci. Tehdy však nebyla vypracována žádná tréninková metoda.
+
+V padesátých letech přichází Frank Rosenblatt[8] s perceptrony, které doprovází již i učící pravidla. Perceptrony využívá k rozpoznávání vzorů. Mimo to dokazuje, že pokud existují váhy, které zadaný problém řeší, pak k nim učící pravidlo konverguje.
+
+Počáteční nadšení však uvadá, když je zjištěno, že takovýto perceptron umí řešit pouze lineárně separovatelné úlohy. Frank Rosenblatt se sice snaží model upravit a rozšířit, ale nedaří se mu to a tak až do osmdesátých let přestává být o perceptrony a neuronové sítě zájem.
+
+V 80. letech dochází k vývoji vícevrstvých perceptronových sítí s asociačními pravidly, schopných aproximovat libovolnou vektorovou funkci, díky čemuž dochází k nové vlně zájmu o neuronové sítě,[9] který později částečně upadá díky neschopnosti učit sítě o větším počtu vrstev. Až okolo roku 2010 opět dochází k renesanci neuronových síti díky objevu hloubkového učení.
+
+Nejužívanější způsob učení neuronových síti je algoritmus zpětného šíření chyby. Podle různých zdrojů[10][11][12] byly základy algoritmu zpětného šíření chyby v kontextu teorie řízení odvozeny z principů dynamického programování; konkrétně se na tom podíleli Henry J. Kelley v roce 1960[13] a Arthur E. Bryson v roce 1961.[14] Roku 1962 publikoval Stuart Dreyfus jednodušší odvození pomocí řetězového pravidla.[15] Vladimir Vapnik cituje ve své knize o support vector machines článek z roku 1963.[16] V roce 1969 Bryson a Yu-Chi Ho algoritmus popsali jako vícestupňovou optimalizaci dynamických systémů.

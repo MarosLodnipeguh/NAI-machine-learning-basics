@@ -1,0 +1,30 @@
+GitHub je webová služba podporující vývoj softwaru za pomoci verzovacího nástroje Git. GitHub nabízí bezplatný Webhosting pro open source projekty. Od 7. ledna 2019 je možné ukládat bezplatně i soukromé repositáře (dříve po zaplacení měsíčního poplatku). Projekt byl spuštěn v roce 2008, zakladatelé byli Tom Preston-Werner, Chris Wanstrath a PJ Hyett.
+
+Charakteristika
+GitHub hostuje přes 200 milionů repozitářů [květen 2022].[2] Pro uživatele poskytuje funkce sociálních sítí – notifikace o změnách, diskuze nad kódem, návrhy změn, či zasílání vlastních řešení (pull-requesty).
+
+Projekt byl napsán pomocí Ruby on Rails a jazyka Erlang.
+
+GitHub poskytuje další služby. Gist, jenž je součástí GitHubu, umožňuje verzování a rychlé sdílení kratších kódů.
+
+Možnosti využití
+GitHub se převážně využívá pro programování.
+
+Kromě zdrojového kódu GitHub podporuje navíc zde uvedené formáty a vlastnosti:
+
+Dokumentace, včetně automaticky poskytovaných šablon typu Readme.md (čti mne), License.md (Licence) souborů v značkovacím jazyku (Markdown)
+Systém sledování problémů (Issue tracking), včetně požadavků na přidání dodatečných vlastností (tzv. features) s popisky, mezníky, zmocněnci a s vyhledávači
+Wiki
+Vlastní řešení (Pull requesty) s revizí kódu a komentáři
+Historie verzování (Commit)
+Grafy: verzování, síť přispěvatelů a její členové, děrný štítek, frekvenčnost programování
+Integrace adresářů
+Hledání rozdílů (diff)
+Oznámení elektronickou poštou
+Možnost přihlášení někoho k oznámením a změnám tím, že ho zmíníme (@ mentioning)
+Emodži
+Malé webové stránky mohou být hostovány z veřejných repozitářů na GitHubu. Formát URL je http(s)://uživatelské_jméno.github.io
+Vnořené seznamy úkolů v souborech (time management)
+Vizualizace geoprostorových dat
+3D renderované soubory lze zobrazit pomocí nového integrovaného prohlížeče STL souborů, který zobrazí soubory na trojrozměrné plátno. Prohlížeč běží na WebGL a Three.js
+Zobrazování souborů z Photoshopu

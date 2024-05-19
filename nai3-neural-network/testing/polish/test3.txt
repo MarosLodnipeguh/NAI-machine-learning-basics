@@ -1,0 +1,6 @@
+Wybrane narzędzia do budowy sieci neuronowych
+Matlab
+Matlab jest programem komputerowym do wykonania obliczeń naukowych, przeznaczony do numerycznych obliczeń macierzowych. Sieć neuronowa są w zasadzie macierzami, w nich zapisane są przykłady zadań, których sieć ma się nauczyć. Program umożliwia również rysowanie wykresów funkcji dwu i trójwymiarowych, dzięki czemu można wizualizować wyniki obliczeń[3]. Do tworzenia sieci neuronowej w Matlabie wykorzystuje się funkcję biblioteki Deep Learning Toolbox oraz Fuzzy Logic Toolbox[4].
+
+Statistica Neural Networks
+Wśród narzędzi stosowanych do projektowania i symulacji sieci neuronowych, Statistica Neural Networks jest programem najbardziej rozbudowanym pod kątem dostępnych funkcji. Program cechuje się dużą sprawnością w działaniu oraz dostępnością wielu rzadko spotykanych narzędzi. Jest również łatwy w obsłudze dla mniej doświadczonego użytkownika – posiada m.in. kreator „Automatyczny projektant”, który służy użytkownikowi pomocą na każdym etapie budowy sieci neuronowej. Bardziej doświadczeni użytkownicy znajdą tu duży zestaw typów sieci neuronowych oraz algorytmów uczących te sieci[4].

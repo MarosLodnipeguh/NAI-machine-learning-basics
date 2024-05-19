@@ -1,0 +1,115 @@
+From Wikipedia, the free encyclopedia
+For other uses, see Six degrees (disambiguation).
+Not to be confused with Six degrees of freedom.
+
+A map of several branches and degrees of a small social group: Ryan is six degrees of separation from Pablo
+Six degrees of separation is the idea that all people are six or fewer social connections away from each other. As a result, a chain of "friend of a friend" statements can be made to connect any two people in a maximum of six steps. It is also known as the six handshakes rule.[1]
+
+The concept was originally set out in a 1929 short story by Frigyes Karinthy, in which a group of people play a game of trying to connect any person in the world to themselves by a chain of five others. It was popularized in John Guare's 1990 play Six Degrees of Separation.
+
+The idea is sometimes generalized to the average social distance being logarithmic in the size of the population.
+
+Early conceptions
+Shrinking world
+Theories on optimal design of cities, city traffic flows, neighborhoods, and demographics were in vogue after World War I. These[citation needed] conjectures were expanded in 1929 by Hungarian author Frigyes Karinthy, who published a volume of short stories titled Everything Is Different. One of these pieces was titled "Chains" or "Chain-Links". The story investigated—in abstract, conceptual, and fictional terms—many of the problems that captivated future generations of mathematicians, sociologists, and physicists within the field of network theory.[2][3]
+
+Technological advances in communications and travel enabled friendship networks to grow larger and span greater distances. In particular, Karinthy believed that the modern world was "shrinking" from this ever-increasing connectedness of human beings. He posited that despite great physical distances between the globe's individuals, the growing density of human networks made the actual social distance far smaller.[4]
+
+As a result of this hypothesis, Karinthy's characters believed that any two individuals could be connected through at most five acquaintances. In his story, the characters create a game out of this notion. He wrote:
+
+A fascinating game grew out of this discussion. One of us suggested performing the following experiment to prove that the population of the Earth is closer together now than they have ever been before. We should select any person from the 1.5 billion inhabitants of the Earth—anyone, anywhere at all. He bet us that, using no more than five individuals, one of whom is a personal acquaintance, he could contact the selected individual using nothing except the network of personal acquaintances.[5]
+
+This idea influenced a great deal of early thought on social networks, both directly and indirectly. Karinthy has been regarded as the originator of the notion of six degrees of separation.[3] A related theory deals with the quality of connections, rather than their existence. The theory of three degrees of influence was created by Nicholas A. Christakis and James H. Fowler.[citation needed]
+
+Small world
+Main article: Small-world experiment
+Michael Gurevich conducted seminal work in his empirical study of the structure of social networks in his 1961 Massachusetts Institute of Technology PhD dissertation under Ithiel de Sola Pool.[6] Mathematician Manfred Kochen, an Austrian who had been involved in urban design, extrapolated these empirical results in a mathematical manuscript, Contacts and Influences,[7] concluding that in a U.S.-sized population without social structure, "it is practically certain that any two individuals can contact one another by means of at most two intermediaries. In a [socially] structured population it is less likely but still seems probable. And perhaps for the whole world's population, probably only one more bridging individual should be needed." They subsequently constructed Monte Carlo simulations based on Gurevich's data, which recognized that both weak and strong acquaintance links are needed to model social structure. The simulations, carried out on the relatively limited computers of 1973, were nonetheless able to predict that a more realistic three degrees of separation existed across the U.S. population, foreshadowing the findings of American psychologist Stanley Milgram.[citation needed]
+
+Milgram continued Gurevich's experiments in acquaintanceship networks at Harvard University. Kochen and de Sola Pool's manuscript, Contacts and Influences,[8] was conceived while both were working at the University of Paris in the early 1950s, during a time when Milgram visited and collaborated in their research. Their unpublished manuscript circulated among academics for over 20 years before publication in 1978. It formally articulated the mechanics of social networks, and explored the mathematical consequences of these (including the degree of connectedness). The manuscript left many significant questions about networks unresolved, and one of these was the number of degrees of separation in actual social networks. Milgram took up the challenge on his return from Paris, leading to the experiments reported in The Small World Problem [9] in popular science journal Psychology Today, with a more rigorous version of the paper appearing in Sociometry two years later.[10]
+
+Milgram's article made famous[9] his 1967 set of experiments to investigate de Sola Pool and Kochen's "small world problem." Mathematician Benoit Mandelbrot, born in Warsaw, growing up in Poland then France, was aware of the Statist rule of thumb, and was also a colleague of de Sola Pool, Kochen and Milgram at the University of Paris during the early 1950s. (Kochen brought Mandelbrot to work at the Institute for Advanced Study and later IBM in the U.S.)
+
+This circle of researchers was fascinated by the interconnectedness and "social capital" of human networks. Milgram's study results showed that people in the United States seemed to be connected by approximately three friendship links, on average, without speculating on global linkages; he never actually used the term "six degrees of separation". Since the Psychology Today article gave the experiments wide publicity, Milgram, Kochen, and Karinthy all had been incorrectly credited as the origin of the notion of six degrees; the most likely popularizer of the term "six degrees of separation" was John Guare, who attributed the concept of six degrees to Marconi.[11]
+
+Continued research: Small World Project
+In 2003, Columbia University conducted an analogous experiment on social connectedness amongst Internet email users. Their effort was named the Columbia Small World Project, and included 24,163 e-mail chains, aimed at 18 targets from 13 countries.[12] Almost 100,000 people registered, but only 384 (0.4%) reached the final target. Amongst the successful chains, while shorter lengths were more common, some reached their target after only 7, 8, 9, or 10 steps. Dodds et al. noted that participants (all volunteers) were strongly biased towards existing models of Internet users[Note 1] and that connectedness based on professional ties was much stronger than those within families or friendships. The authors cite "lack of interest" as the predominating factor in the high attrition rate,[Note 2] a finding consistent with earlier studies.[13]
+
+Research
+Several studies, such as Milgram's small-world experiment, have been conducted to measure this connectedness empirically. The phrase "six degrees of separation" is often used as a synonym for the idea of the "small world" phenomenon.[14]
+
+However, detractors argue that Milgram's experiment did not demonstrate such a link,[15] and the "six degrees" claim has been decried as an "academic urban myth".[13][16]
+
+Computer networks
+In 2001, Duncan Watts, a professor at Columbia University, attempted to recreate Milgram's experiment on the Internet, using an e-mail message as the "package" that needed to be delivered, with 48,000 senders and 19 targets (in 157 countries). Watts found that the average (though not maximum) number of intermediaries was around six.[17] A 2007 study by Jure Leskovec and Eric Horvitz examined a data set of instant messages composed of 30 billion conversations among 240 million people. They found the average path length among Microsoft Messenger users to be 6.[18]
+
+It has been suggested by some commentators[19] that interlocking networks of computer-mediated lateral communication could diffuse single messages to all interested users worldwide as per the six degrees of separation principle via information routing groups, which are networks specifically designed to exploit this principle and lateral diffusion.
+
+An optimal algorithm to calculate degrees of separation in social networks
+Bakhshandeh et al.[20] have addressed the search problem of identifying the degree of separation between two users in social networks such as Twitter. They have introduced new search techniques to provide optimal or near optimal solutions. The experiments are performed using Twitter, and they show an improvement of several orders of magnitude over greedy approaches. Their optimal algorithm finds an average degree of separation of 3.43 between 2 random Twitter users, requiring an average of only 67 requests for information over the Internet to Twitter. A near-optimal solution of length 3.88 can be found by making an average of 13.3 requests.
+
+Popularization
+No longer limited strictly to academic or philosophical thinking, the notion of six degrees recently has become influential throughout popular culture. Further advances in communication technology—and particularly the Internet—have drawn great attention to social networks and human interconnectedness. As a result, many popular media sources have addressed the term. The following provide a brief outline of the ways such ideas have shaped popular culture.
+
+Popularization of offline practice
+John Guare's Six Degrees of Separation
+Main articles: Six Degrees of Separation (play) and Six Degrees of Separation (film)
+American playwright John Guare wrote a play in 1990 and released a 1993 film that popularized it; it is Guare's most widely known work. [citation needed] The play ruminates upon the idea that any two individuals are connected by at most five others. As one of the characters states:
+
+I read somewhere that everybody on this planet is separated by only six other people. Six degrees of separation between us and everyone else on this planet. The President of the United States, a gondolier in Venice, just fill in the names. I find it A) extremely comforting that we're so close, and B) like Chinese water torture that we're so close because you have to find the right six people to make the right connection... I am bound to everyone on this planet by a trail of six people.[21]
+
+Guare, in interviews, attributed his awareness of the "six degrees" to Marconi.[11] Although this idea had been circulating in various forms for decades, it is Guare's piece that is most responsible for popularizing the phrase "six degrees of separation."[citation needed] Following Guare's lead, many future television and film sources later incorporated the notion into their stories.[citation needed]
+
+J. J. Abrams, the executive producer of television series Six Degrees and Lost, played the role of Doug in the film adaptation of this play.[22]
+
+Kevin Bacon game
+The game "Six Degrees of Kevin Bacon"[23] was invented as a play on the concept: the goal is to link any actor to Kevin Bacon through no more than six connections, whereby two actors are connected if they have appeared in a movie or commercial together. It was created by three students at Albright College in Pennsylvania,[24] who came up with the concept while watching Footloose. On September 13, 2012, Google made it possible to search for any given actor's "Bacon Number" through its search engine.[25]
+
+Upon the arrival of the 4G mobile network in the United Kingdom, Kevin Bacon appears in several commercials for the EE Network in which he links himself to several well known celebrities and TV shows in the UK.
+
+John L. Sullivan
+An early version involved former world heavyweight boxing champion John L. Sullivan, in which people asked others to "shake the hand that shook the hand that shook the hand that shook the hand of 'the great John L.'"[26]
+
+Websites and software
+Internet
+In 2013, Hungarian physicist Albert-László Barabási discovered that, on average, there are 19 degrees of separation between any 2 web pages.[27]
+
+Six Degrees of Wikipedia
+Several "degrees of Wikipedia" web services have been created, which automatically provide the shortest paths between two Wikipedia articles.[28]
+
+Facebook
+Facebook friend distances as reported in Feb 2016 [29][30]
+Year	Distance
+2008
+5.28
+2011
+4.74
+2016
+4.57
+A Facebook platform application named "Six Degrees" was developed by Karl Bunyan, which calculates the degrees of separation between people. It had over 5.8 million users, as seen from the group's page. The average separation for all users of the application is 5.73 degrees, whereas the maximum degree of separation is 12. The application has a "Search for Connections" window to input any name of a Facebook user, to which it then shows the chain of connections. In June 2009, Bunyan shut down the application, presumably for issues with Facebook's caching policy; specifically, the policy prohibited the storing of friend lists for more than 24 hours; following this policy would have made the application inaccurate.[31] A new version of the application became available at Six Degrees after Karl Bunyan gave permission to a group of developers led by Todd Chaffee to re-develop the application based on Facebook's revised policy on caching data.[32][33]
+
+The initial version of the application was built at a Facebook Developers Garage London hackathon with Mark Zuckerberg in attendance.[34]
+
+Yahoo! Research Small World Experiment has been conducting an experiment and everyone with a Facebook account can take part in it. According to the research page, this research has the potential of resolving the still unresolved theory of six degrees of separation.[23][35]
+
+Facebook's data team released two papers in November 2011 which document that amongst all Facebook users at the time of research (721 million users with 69 billion friendship links) there is an average distance of 4.74.[36][29] Probabilistic algorithms were applied on statistical metadata to verify the accuracy of the measurements.[37] It was also found that 99.91% of Facebook users were interconnected, forming a large connected component.[38]
+
+Facebook reported that the distance had decreased to 4.57 in February 2016, when it had 1.6 billion users (about 22% of the world population).[29]
+
+LinkedIn
+The LinkedIn professional networking site operates the degree of separation one is away from a person with which he or she wishes to communicate. On LinkedIn, one's network is made up of 1st-degree, 2nd-degree, and 3rd-degree connections and fellow members of LinkedIn Groups. In addition, LinkedIn notifies users how many connections they and any other user have in common.
+
+SixDegrees.com
+SixDegrees.com was an early social-networking website that existed from 1997 to 2000. It allowed users to list friends, family members and acquaintances, send messages and post bulletin board items to people in their first, second, and third degrees, and see their connection to any other user on the site. At its height, it had 3,500,000 fully registered members.[39] However, it was closed in 2000. [40]
+
+Twitter
+Users on Twitter can follow other users creating a network. According to a 2010 study of 5.2 billion such relationships by social media monitoring firm Sysomos, the average distance on Twitter is 4.67. On average, about 50% of people on Twitter are only four steps away from each other, while nearly everyone is five steps or less away.[41]
+
+In another work, researchers have shown that the average distance of 1,500 random users in Twitter is 3.435. They calculated the distance between each pair of users using all the active users in Twitter.[42]
+
+Mathematics
+Mathematicians use an analogous notion of collaboration distance:[43] two persons are linked if they are coauthors of an article. The collaboration distance with mathematician Paul Erdős is called the Erdős number. Erdős-Bacon numbers and Erdős-Bacon-Sabbath (EBS) numbers[44] are further extensions of the same thinking.
+
+Watts and Strogatz showed that the average path length (APL) between two nodes in a random network is equal to ln N / ln K, where N = total nodes and K = acquaintances per node. Thus if N = 300,000,000 (90% of the US population) and K = 30 then Degrees of Separation = APL = 19.5 / 3.4 = 5.7 and if N = 7,200,000,000 (90% of the world population) and K = 30 then Degrees of Separation = APL = 22.7 / 3.4 = 6.7. (It is assumed that 10% of population are too young to participate.)
+
+Psychology
+A 2007 article published in The Industrial-Organizational Psychologist,[45] by Jesse S. Michel from Michigan State University, applied Stanley Milgram's small world phenomenon (i.e., "small world problem") to the field of I-O psychology through co-author publication linkages. Following six criteria, Scott Highhouse (Bowling Green State University professor and fellow of the Society of Industrial and Organizational Psychology) was chosen as the target. Co-author publication linkages were determined for (1) top authors within the I-O community, (2) quasi-random faculty members of highly productive I-O programs in North America, and (3) publication trends of the target. Results suggest that the small world phenomenon is alive and well with mean linkages of 3.00 to top authors, mean linkages of 2.50 to quasi-random faculty members, and a relatively broad and non-repetitive set of co-author linkages for the target. The author then provided a series of implications and suggestions for future research.

@@ -1,0 +1,5 @@
+V roce 1970 Seppo Linnainmaa publikoval obecnou metodu automatického derivování (AD) diskrétních sítí vnořených diferencovatelných funkcí.[17][18] Jedná se o moderní variantu metody zpětného šíření chyby, která je efektivní i v řídkých sítích.[19][20]
+
+V roce 1973 Stuart Dreyfus pomocí zpětného šíření chyby upravoval parametry řídicích systémů úměrně jejich chybovým gradientům.[21] Paul Werbos zmínil možnost uplatnění tohoto principu na umělé neuronové sítě roku 1974[22] a v roce 1982 tak učinil způsobem, který se používá nyní.[23] O čtyři roky později David E. Rumelhart, Geoffrey E. Hinton a Ronald J. Williams experimentálně prokázali, že tato metoda může vést k užitečným interním reprezentacím vstupních dat v hlubších vrstvách neuronových sítí, což je základem hlubokého učení.[24] V roce 1993 byl Eric A. Wan první, kdo vyhrál pomocí backpropagace mezinárodní soutěž v modelování dat.[25]
+
+V současnosti se neuronové sítě převážně užívají v úlohách zpracování přirozeného jazyka v rámci tzv. jazykových modelů jako např. Word2Vec či Transformer a v úlohách počítačového vidění v rámci tzv. konvolučních neuronových sítí.

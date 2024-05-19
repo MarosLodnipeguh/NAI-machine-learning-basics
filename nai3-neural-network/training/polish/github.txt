@@ -1,0 +1,36 @@
+GitHub – hostingowy serwis internetowy przeznaczony do projektów programistycznych wykorzystujących system kontroli wersji Git. Stworzony został przy wykorzystaniu frameworka Ruby on Rails i języka Erlang. Serwis działa od kwietnia 2008 roku[1]. GitHub udostępnia darmowy hosting programów open source i prywatnych repozytoriów (część funkcji w ramach prywatnych repozytoriów jest płatna). W czerwcu 2018 ogłoszono, iż serwis zostanie przejęty przez przedsiębiorstwo Microsoft za kwotę 7,5 miliarda dolarów[2].
+
+W maju 2019 roku GitHub poinformował, że ma około 37 milionów użytkowników[3] i więcej niż 100 milionów repozytoriów[4] (w tym co najmniej 28 milionów repozytoriów publicznych).
+
+	Zobacz wiadomość w serwisie Wikinews pt. Microsoft przejmuje serwis Github
+Funkcje GitHuba
+Wybrane funkcje, które występują w systemie GitHub:
+
+bugtracker,
+forki repozytoriów, czyli kopia w osobnym repozytorium należąca do innego użytkownika,
+pull requesty – osoba mająca forka może zgłosić swój kod do złączenia z głównym repozytorium,
+statystyki,
+organizacje zrzeszające programistów pracujących nad repozytoriami,
+web hooks – wywołanie operacji na repozytorium wysyła informację do innego serwisu lub skryptu,
+wiki dla celów dokumentacji.
+
+Popularne przyciski w serwisie: obserwowanie, oznaczenie gwiazdką oraz fork, czyli skopiowanie repozytorium.
+GitHub Gist
+GitHub udostępnia usługę GitHub Gist, służącą do szybkiego tworzenia pojedynczych plików zawierających najczęściej kod.
+
+Możliwości usługi:
+
+Tworzenie prywatnych plików (ale dostępnych dla każdego kto ma link do kodu),
+Tworzenie publicznych plików dostępnych dla każdego,
+Dzielenie się plikami z innymi użytkownikami.
+GitHub Pages
+Ponadto GitHub udostępnia usługę zwaną GitHub Pages, służącą do szybkiego tworzenia stron internetowych, których kod jest opublikowany w ramach repozytoriów Gita umieszczonych w serwisie. Usługa Github Pages opiera się na systemie Jekyll napisanym na języku Ruby
+
+Możliwości usługi:
+
+darmowe stworzenie strony personalnej, dla organizacji lub projektu,
+możliwość utworzenia własnej strony w oparciu o statyczne pliki strony internetowej lub stworzenie bloga przy zastosowaniu silnika Jekyll[5],
+możliwość podłączenia własnej domeny do danej strony internetowej[6] (lub skorzystania z darmowej subdomeny w ramach adresu github.io),
+darmowy certyfikat SSL dla wszystkich stron w domenie github.io, z możliwością wygenerowania certyfikatu od Let's Encrypt dla stron obsługujących własne domeny[7].
+Archiwum, które ma przetrwać tysiąc lat
+W 2020 roku GitHub poinformował, że udało się zarchiwizować otwarty kod źródłowy z serwisu na rolkach fotoczułego filmu, piqlFilm, które jest w stanie odczytać człowiek przez szkło powiększające i komputer. Archiwum zajmuje 21 TB i zostało umieszczone w przygotowanym schronie, w podziemnej kopalni w Svalbardzie, Norwegii, jako część Światowego Archiwum Arktycznego.[8][9]

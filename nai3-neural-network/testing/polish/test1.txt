@@ -1,0 +1,18 @@
+Typy sieci neuronowych
+Cechą wspólną wszystkich sieci neuronowych jest to, że na ich strukturę składają się neurony połączone ze sobą synapsami. Z synapsami związane są wagi, czyli wartości liczbowe, których interpretacja zależy od modelu.
+
+Sieci jednokierunkowe
+Sieci jednokierunkowe to sieci neuronowe, w których nie występuje sprzężenie zwrotne, czyli pojedynczy wzorzec lub sygnał przechodzi przez każdy neuron dokładnie raz w swoim cyklu. Najprostszą siecią neuronową jest pojedynczy perceptron progowy, opracowany przez McCullocha i Pittsa w roku 1943.
+
+W bardziej zaawansowanych rozwiązaniach stosuje się funkcje przejścia. Najpopularniejszą klasę funkcji stosowanych w sieciach neuronowych stanowią funkcje sigmoidalne, np. tangens hiperboliczny. Sieć zbudowana z neuronów wyposażonych w nieliniową funkcję przejścia ma zdolność nieliniowej separacji wzorców wejściowych. Jest więc uniwersalnym klasyfikatorem.
+
+Do uczenia perceptronów wielowarstwowych stosuje się algorytmy spadku gradientowego, między innymi algorytm propagacji wstecznej.
+
+Sieci jednokierunkowe dzielą się na jednowarstwowe, dwuwarstwowe i wielowarstwowe. Sieci jednowarstwowe mogą rozwiązać jedynie wąską klasę problemów. Sieci dwu i wielowarstwowe mogą rozwiązać znacznie szerszą klasę i są pod tym względem równoważne, jednak stosuje się do nich inne algorytmy uczenia (dla wielowarstwowych są one prostsze).
+
+Sieci rekurencyjne
+Mianem sieci rekurencyjnej określa się sieć, w której połączenia między neuronami stanowią graf z cyklami. Wśród różnorodności modeli rekurencyjnych sztucznych sieci neuronowych wyróżnić można:
+
+sieć Hopfielda – układ gęsto połączonych ze sobą neuronów (każdy z każdym, ale bez połączeń zwrotnych) realizującą dynamikę gwarantującą zbieżność do preferowanych wzorców
+maszyna Boltzmanna – opracowana przez Geoffa Hintona i Terry’ego Sejnowskiego stochastyczna modyfikacja sieci Hopfielda; modyfikacja ta pozwoliła na uczenie neuronów ukrytych i likwidację wzorców pasożytniczych kosztem zwiększenia czasu symulacji.
+Sieci Hopfielda i maszyny Boltzmanna stosuje się jako pamięci adresowane kontekstowo, do rozpoznawania obrazów, rozpoznawania mowy, a także do rozwiązywania problemów minimalizacji (np. problemu komiwojażera).

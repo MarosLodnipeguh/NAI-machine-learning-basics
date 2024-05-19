@@ -1,0 +1,114 @@
+Bitcoin (abbreviation: BTC[a]; sign: ₿) is the first decentralized cryptocurrency. Nodes in the peer-to-peer bitcoin network verify transactions through cryptography and record them in a public distributed ledger, called a blockchain, without central oversight. Consensus between nodes is achieved using a computationally intensive process based on proof of work, called mining, that requires increasing quantities of electricity and guarantees the security of the bitcoin blockchain.[5]
+
+Based on a free market ideology, bitcoin was invented in 2008 by Satoshi Nakamoto, an unknown person.[6] Use of bitcoin as a currency began in 2009,[7] with the release of its open-source implementation.[8]: ch. 1  In 2021, El Salvador adopted it as legal tender.[4] Bitcoin is currently used more as a store of value and less as a medium of exchange or unit of account. It is mostly seen as an investment and has been described by many scholars as an economic bubble.[9] As bitcoin is pseudonymous, its use by criminals has attracted the attention of regulators, leading to its ban by several countries as of 2021.[10]
+
+History
+Main article: History of bitcoin
+Background
+Before bitcoin, several digital cash technologies were released, starting with David Chaum's ecash in the 1980s.[11] The idea that solutions to computational puzzles could have some value was first proposed by cryptographers Cynthia Dwork and Moni Naor in 1992.[11] The concept was independently rediscovered by Adam Back who developed Hashcash, a proof-of-work scheme for spam control in 1997.[11] The first proposals for distributed digital scarcity-based cryptocurrencies came from cypherpunks Wei Dai (b-money) and Nick Szabo (bit gold) in 1998.[12] In 2004, Hal Finney developed the first currency based on reusable proof of work.[13] These various attempts were not successful:[11] Chaum's concept required centralized control and no banks wanted to sign on, Hashcash had no protection against double-spending, while b-money and bit gold were not resistant to Sybil attacks.[11]
+
+2008–2009: Creation
+External image
+image icon Cover page of The Times 3 January 2009 showing the headline used in the genesis block
+
+
+Bitcoin logos made by Satoshi Nakamoto in 2009 (left) and 2010 (right) depict bitcoins as gold tokens.
+The domain name bitcoin.org was registered on 18 August 2008.[14] On 31 October 2008, a link to a white paper authored by Satoshi Nakamoto titled Bitcoin: A Peer-to-Peer Electronic Cash System was posted to a cryptography mailing list.[15] Nakamoto implemented the bitcoin software as open-source code and released it in January 2009.[7] Nakamoto's identity remains unknown.[6] All individual components of bitcoin originated in earlier academic literature.[11] Nakamoto's innovation was their complex interplay resulting in the first decentralized, Sybil resistant, Byzantine fault tolerant digital cash system, that would eventually be referred to as the first blockchain.[11][16] Nakamoto's paper was not peer reviewed and was initially ignored by academics, who argued that it could not work, based on theoretical models, even though it was working in practice.[11]
+
+On 3 January 2009, the bitcoin network was created when Nakamoto mined the starting block of the chain, known as the genesis block.[17] Embedded in this block was the text "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks", which is the date and headline of an issue of The Times newspaper.[7] Nine days later, Hal Finney received the first bitcoin transaction: ten bitcoins from Nakamoto.[18] Wei Dai and Nick Szabo were also early supporters.[17] In 2010, the first known commercial transaction using bitcoin occurred when programmer Laszlo Hanyecz bought two Papa John's pizzas for ₿10,000.[19]
+
+2010–2012: Early growth
+Blockchain analysts estimate that Nakamoto had mined about one million bitcoins[20] before disappearing in 2010 when he handed the network alert key and control of the code repository over to Gavin Andresen. Andresen later became lead developer at the Bitcoin Foundation,[21][22] an organization founded in September 2012 to promote bitcoin.[23]
+
+After early "proof-of-concept" transactions, the first major users of bitcoin were black markets, such as the dark web Silk Road. During its 30 months of existence, beginning in February 2011, Silk Road exclusively accepted bitcoins as payment, transacting ₿9.9 million, worth about $214 million.[24]: 222 
+
+2013–2014: First regulatory actions
+In March 2013, the US Financial Crimes Enforcement Network (FinCEN) established regulatory guidelines for "decentralized virtual currencies" such as bitcoin, classifying American bitcoin miners who sell their generated bitcoins as money services businesses, subject to registration and other legal obligations.[25] In May 2013, US authorities seized the unregistered exchange Mt. Gox.[26] In June 2013, the US Drug Enforcement Administration seized ₿11.02 from a man attempting to use them to buy illegal substances. This marked the first time a government agency had seized bitcoins.[27] The FBI seized about ₿30,000 in October 2013 from Silk Road, following the arrest of its founder Ross Ulbricht.[28]
+
+In December 2013, the People's Bank of China prohibited Chinese financial institutions from using bitcoin.[29] After the announcement, the value of bitcoin dropped,[30] and Baidu no longer accepted bitcoins for certain services.[31] Buying real-world goods with any virtual currency had been illegal in China since at least 2009.[32]
+
+2015–2019
+Research produced by the University of Cambridge estimated that in 2017, there were 2.9 to 5.8 million unique users using a cryptocurrency wallet, most of them using bitcoin.[33] In August 2017, the SegWit software upgrade was activated. Segwit was intended to support the Lightning Network as well as improve scalability.[34] SegWit opponents, who supported larger blocks as a scalability solution, forked to create Bitcoin Cash, one of many forks of bitcoin.[35]
+
+In December 2017, the first futures on bitcoin was introduced by the Chicago Mercantile Exchange (CME).[36]
+
+In February 2018, the price crashed after China imposed a complete ban on Bitcoin trading.[37] The percentage of bitcoin trading in the Chinese renminbi fell from over 90% in September 2017 to less than 1% in June 2018.[38] During the same year, Bitcoin prices were negatively affected by several hacks or thefts from cryptocurrency exchanges.[39]
+
+2020–present
+
+Bitcoin price in US dollars
+In 2020, some major companies and institutions started to acquire bitcoin: MicroStrategy invested $250 million in bitcoin as a treasury reserve asset,[40] Square, Inc., $50 million,[41] and MassMutual, $100 million.[42] In November 2020, PayPal added support for bitcoin in the US.[43]
+
+In February 2021, Bitcoin's market capitalization reached $1 trillion for the first time.[44] In November 2021, the Taproot soft-fork upgrade was activated, adding support for Schnorr signatures, improved functionality of smart contracts and Lightning Network.[45] Before, Bitcoin only used a custom elliptic curve with the ECDSA algorithm to produce signatures.[46]: 101  In September 2021, Bitcoin became legal tender in El Salvador, alongside the US dollar.[4] In October 2021, the first bitcoin futures Exchange-traded fund (ETF), called BITO, from ProShares was approved by the SEC and listed on the CME.[47]
+
+In May and June 2022, the bitcoin price fell following the collapses of TerraUSD, a stablecoin,[48] and the Celsius Network, a cryptocurrency loan company.[49][50]
+
+In 2023, ordinals—non-fungible tokens (NFTs)—on Bitcoin, went live.[51] In January 2024, the first 11 US spot bitcoin ETFs began trading, offering direct exposure to bitcoin for the first time on American stock exchanges.[52][53]
+
+Design
+Main article: Bitcoin protocol
+Units and divisibility
+The unit of account of the bitcoin system is the bitcoin. It is most commonly represented with the currency code BTC[a] as well as the symbol ₿.[1] XBT, a code that conforms to ISO 4217 though not officially part of it, is used by Bloomberg L.P.[54]
+
+No uniform capitalization convention exists; some sources use Bitcoin, capitalized, to refer to the technology and network, and bitcoin, lowercase, for the unit of account.[55] The Oxford English Dictionary advocates the use of lowercase bitcoin in all cases.[56]
+
+One bitcoin is divisible to eight decimal places.[8]: ch. 5  Units for smaller amounts of bitcoin are the millibitcoin (mBTC), equal to 1⁄1000 bitcoin, and the satoshi[b] (sat), representing 1⁄100000000 (one hundred millionth) bitcoin, the smallest amount possible.[2] 100,000 satoshis are one mBTC.[57]
+
+Blockchain
+Further information: Blockchain § Structure and design
+As a decentralized system, bitcoin operates without a central authority or single administrator,[58] so that anyone can create a new bitcoin address and transact without needing any approval.[8]: ch. 1  This is accomplished through a specialized distributed ledger called a blockchain that records bitcoin transactions.[59]
+
+The blockchain is implemented as an ordered list of blocks. Each block contains a SHA-256 hash of the previous block,[59] "chaining" them in chronological order.[8]: ch. 7 [59] The blockchain is maintained by a peer-to-peer network.[24]: 215–219  Individual blocks, public addresses, and transactions within blocks are public information, and can be examined using a blockchain explorer.[60]
+
+Nodes validate and broadcast transactions, each maintaining a copy of the blockchain for ownership verification.[61] A new block is created every 10 minutes on average, updating the blockchain across all nodes without central oversight. This process tracks bitcoin spending, ensuring each bitcoin is spent only once. Unlike a traditional ledger that tracks physical currency, bitcoins exist digitally as unspent outputs of transactions.[8]: ch. 5 
+
+Addresses and transactions
+
+Simplified chain of ownership. In practice, a transaction can have more than one input and more than one output.[62]
+In the blockchain, bitcoins are linked to specific addresses that are hashes of a public key. Creating an address involves generating a random private key and then computing the corresponding address. This process is almost instant, but the reverse (finding the private key for a given address) is nearly impossible.[8]: ch. 4  Publishing a bitcoin address does not risk its private key, and it is extremely unlikely to accidentally generate a used key with funds. To use bitcoins, owners need their private key to digitally sign transactions, which are verified by the network using the public key, keeping the private key secret.[8]: ch. 5 
+
+Bitcoin transactions use a Forth-like scripting language,[8]: ch. 5  involving one or more inputs and outputs. When sending bitcoins, a user specifies the recipients' addresses and the amount for each output. This allows sending bitcoins to several recipients in a single transaction. To prevent double-spending, each input must refer to a previous unspent output in the blockchain.[62] Using multiple inputs is similar to using multiple coins in a cash transaction. As in a cash transaction, the sum of inputs can exceed the intended sum of payments. In such a case, an additional output can return the change back to the payer.[62] Unallocated input satoshis in the transaction become the transaction fee.[62]
+
+Losing a private key means losing access to the bitcoins, with no other proof of ownership accepted by the protocol.[24] For instance, in 2013, a user lost ₿7,500, valued at US$7.5 million, by accidentally discarding a hard drive with the private key.[63] It is estimated that around 20% of all bitcoins are lost.[64] The private key must also be kept secret as its exposure, such as through a data breach, can lead to theft of the associated bitcoins.[8]: ch. 10 [65] As of December 2017, approximately ₿980,000 had been stolen from cryptocurrency exchanges.[66]
+
+Mining
+See also: Bitcoin protocol § Mining
+
+Bitcoin mining facility with large amounts of mining hardware
+The mining process in Bitcoin involves maintaining the blockchain through computer processing power. Miners group and broadcast new transactions into blocks, which are then verified by the network.[59] Each block must contain a proof of work (PoW) to be accepted,[59] involving finding a nonce number that, combined with the block content, produces a hash numerically smaller than the network's difficulty target.[8]: ch. 8  This PoW is simple to verify but hard to generate, requiring many attempts.[8]: ch. 8  PoW forms the basis of Bitcoin's consensus mechanism.[67]
+
+The difficulty of generating a block is deterministically adjusted based on the mining power on the network by changing the difficulty target, which is recalibrated every 2,016 blocks (approximately two weeks) to maintain an average time of ten minutes between new blocks. The process requires significant computational power and specialized hardwar
+
+Miners who successfully find a new block can collect transaction fees from the included transactions and a set reward in bitcoins.[69] To claim this reward, a special transaction called a coinbase is included in the block, with the miner as the payee. All bitcoins in existence have been created through this type of transaction.[8]: ch. 8  This reward is halved every 210,000 blocks until ₿21 million,[c] with new bitcoin issuance slated to end around 2140. Afterward, miners will only earn from transaction fees. These fees are determined by the transaction's size and the amount of data stored, measured in satoshis per byte.[70][62][8]: ch. 8 
+
+The proof of work system and the chaining of blocks make blockchain modifications very difficult, as altering one block requires changing all subsequent blocks. As more blocks are added, modifying older blocks becomes increasingly challenging.[71][59] In case of disagreement, nodes trust the longest chain, which required the greatest amount of effort to produce.[67] To tamper or censor the ledger, one needs to control the majority of the global hashrate.[67] The high cost required to reach this level of computational power guarantees the security of the bitcoin blockchain.[67]
+
+Bitcoin mining's environmental impact is controversial and has attracted the attention of regulators, leading to restrictions or incentives in various jurisdictions.[72] As of 2022, a non-peer-reviewed study by the Cambridge Centre for Alternative Finance (CCAF) estimated that bitcoin mining represented 0.4% of global electricity consumption.[73] Another 2022 non-peer-reviewed commentary published in Joule estimated that bitcoin mining was responsible for 0.2% of world greenhouse gas emissions.[74] About half of the electricity used is generated through fossil fuels.[75] Moreover, mining hardware's short lifespan results in electronic waste.[76] The amount of electrical energy consumed, and the e-waste generated, is comparable to that of Greece and the Netherlands, respectively.[76][74]
+
+Privacy and fungibility
+Bitcoin is pseudonymous, with funds linked to addresses, not real-world identities. While the owners of these addresses are not directly identified, all transactions are public on the blockchain. Patterns of use, like spending coins from multiple inputs, can hint at a common owner. Public data can sometimes be matched with known address owners.[77] Bitcoin exchanges might also need to collect personal data as per legal requirements.[78] For enhanced privacy, users can generate a new address for each transaction.[79]
+
+In the Bitcoin network, each bitcoin is treated equally, ensuring basic fungibility. However, users and applications can choose to differentiate between bitcoins. While wallets and software treat all bitcoins the same, each bitcoin's transaction history is recorded on the blockchain. This public record allows for chain analysis, where users can identify and potentially reject bitcoins from controversial sources.[80] For example, in 2012, Mt. Gox froze accounts containing bitcoins identified as stolen.[81]
+
+Wallets
+For broader coverage of this topic, see Cryptocurrency wallet.
+
+Screenshot of Bitcoin Core
+
+A paper wallet with the address as a QR code while the private key is hidden
+
+A hardware wallet which processes bitcoin transactions without exposing private keys
+Bitcoin wallets were the first cryptocurrency wallets, enabling users to store the information necessary to transact bitcoins.[82][8]: ch. 1, glossary  The first wallet program, simply named Bitcoin, and sometimes referred to as the Satoshi client, was released in 2009 by Nakamoto as open-source software.[7] Bitcoin Core is among the best known clients. Forks of Bitcoin Core exist such as Bitcoin Unlimited.[83] Wallets can be full clients, with a full copy of the blockchain to check the validity of mined blocks,[8]: ch. 1  or lightweight clients, just to send and receive transactions without a local copy of the entire blockchain.[84] Third-party internet services called online wallets store users' credentials on their servers, making them susceptible of hacks.[85] "Cold storage" protects bitcoins from such hacks by keeping private keys offline, either through specialized hardware wallets or paper printouts.[86][8]: ch. 4 
+
+Scalability and decentralization challenges
+Nakamoto limited the block size to one megabyte.[87] The limited block size and frequency can lead to delayed processing of transactions, increased fees and a Bitcoin scalability problem.[88] The Lightning Network, second-layer routing network, is a potential scaling solution.[8]: ch. 8 
+
+Research shows a trend towards centralization in bitcoin as miners join pools for stable income.[24]: 215, 219–222 [89]: 3  If a single miner or pool controls more than 50% of the hashing power, it would allow them to censor transactions and double-spend coins.[58] In 2014, mining pool Ghash.io reached 51% mining power, causing safety concerns, but later voluntarily capped its power at 39.99% for the benefit of the whole network.[90] A few entities also dominate other parts of the ecosystem such as the client software, online wallets, and simplified payment verification (SPV) clients.[58]
+
+Economics and usage
+Main article: Economics of bitcoin
+Bitcoin's theoretical roots and ideology
+See also: Crypto-anarchism
+External videos
+video icon The Declaration Of Bitcoin's Independence, BraveTheWorld, 4:38
+According to the European Central Bank, the decentralization of money offered by bitcoin has its theoretical roots in the Austrian school of economics, especially with Friedrich von Hayek's book The Denationalization of Money, in which he advocates a complete free market in the production, distribution and management of money to end the monopoly of central banks.[91]: 22  Sociologist Nigel Dodd, citing the crypto-anarchist Declaration of Bitcoin's Independence, argues that the essence of the bitcoin ideology is to remove money from social, as well as governmental, control.[92] The Economist describes bitcoin as "a techno-anarchist project to create an online version of cash, a way for people to transact without the possibility of interference from malicious governments or banks".[93] These philosophical ideas initially attracted libertarians and anarchists.[94] Economist Paul Krugman argues that cryptocurrencies like bitcoin are only used by bank skeptics and criminals.[95]

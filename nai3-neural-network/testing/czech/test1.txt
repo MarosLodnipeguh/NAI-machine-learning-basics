@@ -1,0 +1,6 @@
+Umělá neuronová síť, anglicky Artificial Neural Network či jen Neural Network (ANN, NN), je jeden z výpočetních modelů používaných v oblasti umělé inteligence. Vzorem je chování neuronů v mozku, od toho je odvozen i název, v současnosti se však princip neuronových sítí od původního zamýšleného napodobení neuronů liší.[1]
+
+Umělá neuronová síť je struktura určená pro distribuované paralelní zpracování dat. Skládá se z umělých (formálních) neuronů, jejichž volným předobrazem je biologický neuron. Neurony jsou vzájemně propojeny synaptickými vazbami a navzájem si předávají signály a transformují je pomocí aktivačních přenosových funkcí. Neuron má libovolný počet vstupů, ale pouze jeden výstup.
+
+Využití
+Neuronové sítě se používají mimo jiné pro rozpoznávání obrazů[2] (např. ve formě pixelů) či akustických (např. rozpoznávání řeči) nebo elektrických (např. EKG, EEG) signálů[3], dále ke klasifikaci, kompresi či segmentaci[4] dat, k predikci vývoje časových řad (např. burzovních indexů), k analýze psaného textu[5] či k filtrování spamu. V lékařství slouží k diagnostice onemocnění či k prohlubování znalostí o fungování informačních systémů (nervových soustav) živých organismů. Například Grossbergova síť[6] vznikla původně jako simulace fyziologického modelu rozpoznávání vzorů na sítnici lidského oka.

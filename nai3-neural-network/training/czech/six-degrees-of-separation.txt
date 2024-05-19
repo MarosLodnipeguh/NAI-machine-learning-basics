@@ -1,0 +1,76 @@
+Šest stupňů odloučení je myšlenka, že všichni lidé jsou v průměru šest nebo méně sociálních kontaktů od sebe. Ve výsledku lze vytvořit řetězec  „přítel přítele“, který spojí libovolné dva lidi v maximálně šesti krocích. To bylo původně stanoveno Frigyesem Karinthym v roce 1929 a popularizováno ve stejnojmenné hře z roku 1990 napsané Johnem Guareem. Někdy se zobecňuje na průměrnou sociální vzdálenost, která je logaritmická ve velikosti populace.
+
+Raná koncepce
+Zmenšující se svět
+Teorie optimálního designu městských čtvrtí a demografie byly v módě po první světové válce. Tyto domněnky byly rozšířeny v roce 1929 maďarským autorem Frigyesem Karinthym, který vydal svazek povídek s názvem „Všechno je jiné (Everything is Different)“. Jeden z těchto kousků měl název „Řetěz (Chains)“ nebo „Řetězové spojení (Chain-Links)“. Příběh zkoumal, abstraktně, koncepčně a fiktivně, mnoho problémů, které by zaujaly budoucí generace matematiků, sociologů a fyziků v oblasti teorie sítí. [1] [2] Díky technologickému pokroku v komunikaci a cestování se mohly sítě přátelství zvětšit a překlenout větší vzdálenosti. Karinthy věřil, že se moderní svět „zmenšuje“, díky stále se zvyšující propojenosti lidských bytostí. Předpokládal, že i přes velké fyzické vzdálenosti mezi jednotlivci na celé planetě, se skutečná sociální vzdálenost zmenšila. [3]
+
+
+Výsledkem této hypotézy bylo, že jakékoli dva jednotlivce lze spojit prostřednictvím nejvýše pěti známých. Tato myšlenka přímo i nepřímo ovlivnila velké množství raných myšlenek na sociálních sítích. Karinthy byl považován za původce pojmu šest stupňů odloučení.[2]
+
+Malý svět
+Michael Gurevich provedl klíčovou práci ve svém empirickém studiu struktury sociálních sítí ve své disertační práci na Massachusettském technologickém institutu (Massachusetts Institute of Technology) z roku 1961 pod vedením Ithiel de Sola Pool.[4] Matematik Manfred Kochen, Rakušan, který se zabýval urbanistickým designem, tyto empirické výsledky extrapoloval do matematického rukopisu Kontakty a vlivy [5], který dospěl k závěru, že u populace o velikosti USA bez sociální struktury „je prakticky jisté, že dvě jednotlivci se mohou navzájem kontaktovat prostřednictvím nejvýše dvou zprostředkovatelů. U sociálně strukturované populace je to méně pravděpodobné, ale je to možné“ Následně vytvořili simulace Monte Carlo založené na Gurevichových datech, které uznaly, že pro modelování sociální struktury jsou zapotřebí slabé i silné vazby na známé. Simulace prováděné na relativně omezených počítačích z roku 1973 však dokázaly předpovědět, že v celé populaci USA existují realističtější tři stupně oddělení, což předznamenává zjištění amerického psychologa Stanleyho Milgrama.
+
+
+Milgram pokračoval v Gurevichových experimentech skrze známosti na Univerzitě Harvard v Cambridge ve státě Massachusetts, U. S. Kochen a de Sola Pool pokračovali v rukopisu Kontakty a vlivy (Contacts and Influences)[6], zatímco oba pracovali na pařížské univerzitě. Počátkem 50. let je Milgram navštívil a spolupracoval s nimi na jejich výzkumu. Jejich nepublikovaný rukopis obíhal mezi akademiky více než 20 let před vydáním v roce 1978. Formuloval mechaniku sociálních sítí a prozkoumal jejich matematické důsledky (včetně míry propojenosti). Rukopis ponechal mnoho významných otázek týkajících se sítí nevyřešených a jednou z nich byl počet stupňů oddělení ve skutečných sociálních sítích.
+
+Významným milníkem je rok 1967, kdy Milgram provedl důležitý experiment. Náhodně vybraným adresátům odeslal z amerického středozápadu vždy jeden balíček se vzkazem, aby jej co nejrychleji doručili adresátovi do Bostonu přes své známé. Balíček však směl putovat pouze přes osoby, které se vzájemně osobně znaly a zároveň o nichž se odesílající domníval, že znají adresáta v Bostonu nebo někoho, kdo mu balíček doručí. Po vyhodnocení výsledků Milgram překvapeně zjistil, že k doručení balíčku mezi oněmi náhodně vybranými lidmi, kteří se vůbec neznají, stačí průměrně 5,5 mezistupňů.
+
+
+Milgramův článek vydaný v populárně-vědeckém časopise Psychology Today proslavil jeho soubor experimentů z roku 1967, který zkoumal de Sola Poolův a Kochenův „Problém malého světa“. [7] Matematik Benoit Mandelbrot, narozený ve Varšavě, vyrůstal ve Francii, věděl o statistickém pravidle a byl také kolegou de Sola Pool, Kochena a Milgrama na pařížské univerzitě na počátku padesátých let (Kochen přivedl Mandelbrota k práci na Institute for Advanced Study a později IBM v USA). Tento okruh vědců byl fascinován vzájemnou propojeností a „sociálním kapitálem“ lidských sítí. Výsledky Milgramovy studie ukázaly, že lidem ve Spojených státech se zdálo, že jsou v průměru spojeni přibližně třemi přátelskými vazbami, aniž by spekulovali o globálních vazbách; ve skutečnosti nikdy nepoužil výraz „šest stupňů odloučení“. I když článek Psychology Today poskytl experimentům širokou publicitu, ani jeden z trojice Milgram, Kochen a Karinthy nebyl původcem pojmu šest stupňů. Největším popularizátorem výrazu „šest stupňů odloučení“ byl John Guare, který jako autora pojmu označil Marconiho [8].
+
+Pokračující výzkum: Projekt malého světa
+V roce 2003 provedla Columbia University analogický experiment o sociální propojenosti uživatelů internetových e-mailů. Jejich pokus byl nazván Projekt malého světa (Columbia Small World Project) a zahrnovalo 24 163 e-mailových řetězců zaměřených na 18 cílů ze 13 zemí. [9] Zaregistrovalo se téměř 100 000 lidí, ale konečného cíle dosáhlo pouze 384 (0,4%). Některé řetězce dosáhly svého cíle po pouhých 7, 8, 9 nebo 10 krocích. Dodds et al. poznamenali, že účastníci (všichni dobrovolníci) byli silně zaujatí vůči stávajícím modelům uživatelů internetu a že propojenost založená na profesionálních vazbách byla mnohem silnější než v rámci rodin nebo přátelství. Autoři uvádějí „nezájem“ jako převládající faktor ve vysoké míře úbytku, což je nález konzistentní s předchozími studiemi. [10]
+
+Výzkum
+Několik studií, jako například experiment Stanleyho Milgrama "Malý svět", bylo provedeno za účelem empirického změření této propojenosti. Spojení slov „šest stupňů odloučení“ je často používáno jako synonymum pro fenomén „malého světa“.[11]
+
+Kritici argumentují tím, že Milgramův experiment neprokazuje takovéto propojení.[12] a teorii odsoudili jako akademický městský mýtus.[13][14] Taktéž existence izolovaných skupin lidí, například brazilských kmenů a jiných domorodých národů, odporuje striktnímu výkladu této teorie.
+
+Počítačové sítě
+V roce 2001 se profesor Duncan Watts z Kolumbijské univerzity pokusil znovu provést Milgramův experiment rozesláním e-mailové zprávy internetem. Zpráva sloužila jako "balíček" adresovaný 48 tisícům lidí, který měl být doručen 19 lidem. Watts zjistil, že průměrný počet zprostředkovatelů byl kolem šesti.[15] V roce 2007 zkoumali dva počítačoví vědci – Jure Leskovec a Eric Horvitz data z 30 miliard konverzací mezi 240 miliony lidí. Zjistili, že průměrná vzdálenost mezi uživateli Microsoft Messengeru je 6 sociálních jednotek.[16]
+
+Optimální algoritmus k vypočítání stupňů odloučení na sociálních sítích
+Bakhshandeh et al.[17] uvádějí výzkum zjišťující, jaký je počet sociálních jednotek mezi uživateli sociální sítě Twitter. Optimální algoritmus uvádí, že průměrná vzdálenost mezi dvěma náhodnými uživateli Twitteru je 3,43 sociálních jednotek, což je překvapivě nízké číslo. Uvádějí, že v době internetu a sociálních sítí se svět zmenšuje každým dnem a lidé jsou více a více propojeni.
+
+Tři a půl stupně odloučení
+Výzkum probíhal i v rámci sociální sítě Facebook, která má v dnešní době (2020) přes 2,7 miliardy aktivních uživatelů[18]. Výzkum probíhal v letech 2011 a 2016. V roce 2011 čítal průměrný počet prostředníků 3,74 (=4,74 sociální jednotky), v té době byl počet aktivních uživatelů Facebooku 721 milionů. V roce 2016 se počet uživatelů více než zdvojnásobil (1,59 miliard uživ.) a průměrný počet prostředníků mezi uživateli klesl na 3,57 (=4,57 sociální jednotky). V rámci USA je toto číslo ještě nižší a čítá průměrně 3,46 prostředníků. Tento výzkum poukazuje na pozitivní korelaci mezi počtem uživatelů a jejich vyšší propojeností. Data byla v rámci výzkumu získávána statistickými metodami a algoritmy. Studie ukazuje ke stále většímu vývoji fenoménu „malého světa“ a mnohem větší propojeností mezi lidmi, než by se dalo očekávat.[19]
+
+„Šest stupňů kopulace“
+Podobný princip propojenosti mezi lidmi se aplikoval i ve Švédsku při výzkumu promiskuity ve společnosti. Studie byla zaměřena na cesty, jak se mohou mezi lidmi v jedné komunitě šířit pohlavní choroby. Studie se zúčastnilo 2810 respondentů (18-74 let), přičemž byl nejméně zastoupen vzorek starších žen. Kromě této skutečnosti se jednalo o reprezentativní vzorek napříč demografickým spektrem. Studie zkoumala, kolik měl respondent partnerů v průběhu jednoho roku. Výzkum poukazuje na mnohem větší propojenost, většinou kolem 2-3 sociálních jednotek[20]. Výsledky byly silně ovlivněny jednotlivci, kteří měli velký počet partnerů. Studie poskytla data pro epidemiology a lékaře k dalšímu zkoumání a prevenci šíření pohlavně přenosných chorob.[21]
+
+Popularizace
+Šest stupňů odloučení se už nelimituje pouze na akademické a filozofické prostředí, stalo se vlivným tématem v současné popkultuře. Nové technologické objevy, především internet, inspirovaly lidstvo věnovat větší pozornost sociálním sítím a lidským vzájemným kontaktům. Téma se objevuje ve většině populárních médií včetně kinematografie, hudbě, filmu a internetu.
+
+Drama a společenská hra
+V roce 1990 napsal americký dramatik John Guare divadelní hru, kterou zpopularizoval film z roku 1993.[22] Hra byla nominována na Pulitzerovu cenu za drama a na Tonyho cenu za nejlepší hru.[23] Guare odkazuje na propojenost americké společnosti prostřednictvím lásky k hmotným statkům, krásy a slávy. Podporuje předpoklad propojení světa právě šesti stupni odloučení. [22] Jak uvádí hrdinka hry Quisa:
+
+Někde jsem četla, že každého na této planetě odděluje šest lidí. Šest stupňů odloučení mezi námi a každým dalším člověkem na této planetě. Prezident Spojených států amerických, gondoliér v Benátkách, jen doplň jména. Považuji za extrémně uklidňující, že jsme tak blízko. Připomíná mi to čínské vodní mučení, že jsme si tak nablízku, protože musíme najít správných šest lidí k navázání správného spojení. Já i ty jsme ke každému na této planetě napojeni stopou šesti lidí.[24]
+
+Dále existuje od roku 1994 koncepční společenská hra Šest stupňů herce Kevina Bacona. Hráči soupeří o to, kdo najde nejrychleji nejkratší cestu od náhodného herce ke Kevinu Baconovi. Vše podle filmů, kde hráli herci společně. Usuzuje se, že jakýkoliv hollywoodský herec může být spojen v šesti krocích s Baconem.[25] Hra byla vytvořena třemi studenty z Albright College v Pensylvánii, koncept vytvořili při sledování Footloose.[26]
+
+Populární kultura
+Film
+Téma nejvíce zpopularizoval film Šest stupňů odloučení z roku 1993. Dva prodejci umění najdou pobodaného muže v Central Parku v New Yorku a od této chvíle se jejich životy obrátí naruby. Režie v podání Australana Freda Schepisi. V hlavních rolích Will Smith, Donald Sutherland a Stockard Channing.[27]
+Oskarový film Babel z roku 2006 je založen na konceptu šesti stupňů odloučení. Hrdinové se neznají a žijí tisíce mil od sebe, ale jejich životy jsou stejně úzce propleteny.[28]
+Na šesti stupních odloučení jsou založeny i zápletky filmů ruské populární vánoční série Ёлки (rus. vánoční stromky, nebo též jedličky). [29]
+Literatura
+V literatuře se objevují vědomostní knihy Joined-Up Thinking a Connectoscope od britského spisovatele Stevyna Colgana. Zakládají na šesti stupních informací, které jsou všechny propojeny.
+Dále se objevuje podobná hra té Kevina Bacona, ale v rámci literatury. Většinou se nazývá v originále 6 degrees of separation meme. Cílem není dojít k určité knize, ale od vybrané knihy vytvořit hezky pospojovaný související řetěz 6 titulů podle žánrů, autorů nebo prostředí.[30]
+Hudba
+Ústřední téma šesti stupňů odloučení lze sledovat ve skladbě "Full Circle" od skupiny No Doubt.
+"Šest stupňů odloučení" se nazývá česká metalová kapela z Velkého Ořechova, která je aktivní od roku 1996.[31]
+"Šest stupňů odloučení" je 10. nahrávka na 2. disku z alba The Weight of These Wings z roku 2016 od americké zpěvačky Mirandy Lambert.
+"Šest stupňů odloučení" je 2. nahrávka 3. alba #3 od irské skupiny The Script.
+"Šest stupňů" je 6. nahrávka z 3. alba The Light Between Us od britské skupiny Scouting for Girls.
+"Šest stupňů vnitřní turbulence" je album z roku 2002 od progresivní metalové kapely Dream Theater.
+"The Seventh Degree of Separation" je album z roku 2011 od progresivní rockové kapely Arena.
+Píseň "No Degree of Separation" od italského zpěváka Francesca Michielina reprezentovala Itálii na soutěži Eurovize v roce 2016.
+Webové stránky a aplikace
+Internet
+Maďarský fyzik Albert-László Barabási v roce 2013 objevil, že je v průměru 19 bodů odloučení mezi dvěma libovolnými webovými stránkami.[32]
+
+Wikipedie
+V roce 2018 publikoval Jacob Wenger webovou stránku www.SixDegreesOfWikipedia.com. Tato stránka ukáže počet cest a stupně odloučení od jednoho zvoleného pojmu z Wikipedie k druhému. Také ukáže grafickou mapu spojení. Průměrný stupeň při hledání u většiny uživatelů je 3.[33]
+
+Facebook
+Datový tým Facebooku v roce 2011 publikoval 2 studie, které dokumentují, že všichni uživatelé Facebooku (v té době 727 milionů uživatelů) jsou průměrně od sebe vzdáleni 4.74 kliknutí. V roce 2016 Facebook hlásil, že vzdálenost klesla na 4.57 kliknutí při 1,6 miliardě uživatelů.[34]

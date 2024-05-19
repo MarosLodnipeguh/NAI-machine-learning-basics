@@ -1,0 +1,42 @@
+Współcześnie nie ma wątpliwości, że sztuczne sieci neuronowe nie stanowią dobrego modelu mózgu[potrzebny przypis], choć różne ich postacie wykazują cechy charakterystyczne dla biologicznych układów neuronowych: zdolność do uogólniania wiedzy, uaktualniania kosztem wcześniej poznanych wzorców, dawanie mylnych odpowiedzi po przepełnieniu[potrzebny przypis]. Mimo uproszczonej budowy sztuczne sieci neuronowe stosuje się czasem do modelowania schorzeń mózgu[potrzebny przypis].
+
+Sztuczne sieci neuronowe znajdują zastosowanie w rozpoznawaniu i klasyfikacji wzorców (przydzielaniu wzorcom kategorii), predykcji szeregów czasowych, analizie danych statystycznych, odszumianiu i kompresji obrazu i dźwięku oraz w zagadnieniach sterowania i automatyzacji.
+
+Magazyn BYTE wymienia między innymi następujące zastosowania tych sieci:
+
+diagnostyka układów elektronicznych
+badania psychiatryczne
+prognozy giełdowe
+prognozowanie sprzedaży
+poszukiwania ropy naftowej
+interpretacja badań biologicznych
+prognozy cen
+analiza badań medycznych
+planowanie remontów maszyn
+planowanie postępów w nauce
+analiza problemów produkcyjnych
+optymalizacja działalności handlowej
+analiza spektralna
+optymalizacja utylizacji odpadów
+dobór surowców
+selekcja celów śledztwa w kryminalistyce
+dobór pracowników
+sterowanie procesów przemysłowych[5].
+Najpopularniejsze obecnie zastosowanie sieci neuronowych[potrzebny przypis]:
+
+w programach do rozpoznawania pisma (OCR)
+na lotniskach do sprawdzania, czy prześwietlony bagaż zawiera niebezpieczne ładunki
+do syntezy mowy.
+
+W dziedzinie nauk technicznych sztuczne sieci neuronowe wykorzystuje się m.in. do[6]:
+
+aproksymacji, prognozowania, przewidywania danych wyjściowych na podstawie danych wejściowych bez konieczności jawnego definiowania związku pomiędzy nimi;
+klasyfikacji i rozpoznawania;
+kojarzenia danych – sieci neuronowe pozwalają zautomatyzować procesy wnioskowania i pomagają wykrywać istotne powiązania pomiędzy danymi;
+analizy danych, czyli poszukiwania związków pomiędzy danymi.
+Zobacz też
+logika rozmyta
+uczenie głębokie
+sztuczna inteligencja
+system GC-NN
+mechatronika

@@ -1,0 +1,21 @@
+Arkádové hry
+Arkádové hry, které využívají arkádových automatů.
+Konzolové hry
+Konzolové hry, které využívají televizní obrazovku s herní konzolí.
+Počítačové hry
+Počítačové hry, které využívají monitor a počítač.
+Mobilní hry
+Mobilní hry, které využívají mobilní zařízení, jako je telefon a tablet.
+Webové hry
+Webové hry jsou počítačové hry ovládané prostřednictvím prohlížeče, samotná hra běží na serveru.
+Hry ve virtuální realitě
+Hry ve virtuální realitě
+Cloudové hraní
+Cloudové hraní vyžaduje minimální hardwarové zařízení, jež se připojuje k systémům poskytovatele cloudového hraní. Může jím být osobní počítač, konzole, notebook, mobilní telefon nebo dokonce dedikované zařízení připojené k displeji s dobrým připojením k internetu.[17][18][19] Hra se vypočítává a vykresluje na vzdáleném hardwaru[19][17] pomocí řady prediktivních metod, které snižují latenci sítě mezi vstupem hráče a výstupem na jeho zobrazovacím zařízení.[20] Například služby Xbox Cloud Gaming a PlayStation Now používají vlastní dedikované blade servery v cloudových centrech.[21][22]
+Podle žánru
+Hra Dustforce je zástupcem žánru plošinovek, protože je pro ni typické skákání mezi plošinami
+Podrobnější informace naleznete v článku Videoherní žánr.
+Související informace naleznete také v článku Hratelnost.
+Podobně jako většinu jiných děl i videohry lze dělit na různé žánry. Na rozdíl od filmů a televizních pořadů, jež se dělí podle vizuálních nebo příběhových prvků, se však videohry obecně dělí do žánrů na základě její hratelnosti. Jedná se totiž o primární způsob, jakým člověk s videohrou interaguje.[23][24][25] Prostředí příběhu nemá vliv na hratelnost; střílečka je stále střílečkou bez ohledu na to, zda se odehrává ve fantasy světě nebo ve vesmíru.[26][27] Výjimkou je žánr hororových her, jenž se používá pro hry, které jsou založeny na příběhových prvcích hororu, nadpřirozena a psychologického hororu.[28]
+
+Názvy žánrů obvykle samy o sobě označují, o jaký druh hratelnosti se jedná, například akční hry, hry na hrdiny nebo shoot ’em up. Některé názvy jsou však odvozeny od děl, které žánr definovaly, například roguelike od hry Rogue,[29] klony Grand Theft Auto od hry Grand Theft Auto III[30] a battle royale od filmu Battle Royale.[31] Názvy se také mohou v průběhu času měnit, protože hráči, vývojáři a média přicházejí s novými termíny; například střílečky z pohledu první osoby se původně nazývaly „klony Doomu“ na základě videohry Doom (1993).[32] V rámci herních žánrů existuje hierarchie. Hlavní žánry, jako jsou „střílečky“ a „akční hry“, vystihují základní hratelnost her a mohou se dělit na několik specifických podžánrů, v rámci stříleček se může jednat například o hry z pohledu první a třetí osoby. Existují také některé mezižánrové typy, které je možné řadit mezi hlavní žánry, příkladem jsou akční adventury.

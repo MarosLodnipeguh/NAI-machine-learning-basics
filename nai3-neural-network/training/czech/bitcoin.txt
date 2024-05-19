@@ -1,0 +1,97 @@
+Bitcoin je internetová open-source P2P platební síť a také v této síti používaná kryptoměna. Hlavní unikátností bitcoinu je jeho plná decentralizace; je navržen tak, aby nikdo, ani autor nebo jiní jednotlivci, skupiny či vlády, nemohl měnu ovlivňovat, padělat, zabavovat účty, ovládat peněžní toky nebo způsobovat inflaci. V síti neexistuje žádný centrální bod – kdokoliv, kdo by mohl o síti rozhodovat. Konečné množství bitcoinů je předem známo a uvolňování bitcoinů do oběhu je definováno ve zdrojovém kódu protokolu. Cena jednoho bitcoinu je vysoká, v lednu roku 2021, dosahovala přibližně 800 tis. korun českých a 9. února 2021 cena bitcoinu překročila 1 milion korun českých.
+
+Síť funguje od roku 2009 (3. ledna 2009 07:15:05).[3] Roku 2008 ji popsal[4] a vytvořil člověk nebo skupina lidí podepsaná jako Satoshi Nakamoto,[5] přičemž ještě 2 měsíce před tím byla zaregistrována doména bitcoin.org.[6] K autorství se v květnu 2016 přihlásil Australan Craig Steven Wright, což bylo ale rychle zpochybněno.[7] Sahil Gupta označil za pravděpodobného autora bitcoinu velkopodnikatele Elona Muska, který má hluboké znalosti ekonomie, šifrování a kódování. Elon Musk ale toto tvrzení odmítl.[8]
+
+Základem pro vznik bitcoinu byly koncepty „Bit gold“[9] a „b-Money“.[10] Nyní pro platby existuje oficiální softwarový klient, o který se starají dobrovolníci z celého světa, a několik alternativních klientů.[11]
+
+Od roku 2011 se o bitcoinu, ekonomice, možnostech a důsledcích této měny pořádají konference – v New Yorku,[12] Praze[13][14] a Londýně (2012).[15] Další proběhla roku 2013 v San José. V roce 2022 se v Miami uskutečnila největší bitcoinová konference v historii.
+
+V září 2012 vznikla Bitcoin Foundation, starající se o infrastrukturu okolo bitcoinu (včetně hlavního klienta), sledování hrozeb a případné vylepšování protokolu, zajišťování konferencí a propagaci měny. Vzhledem k decentralizované povaze sítě však tato nadace nemá žádné zvláštní pravomoce. V síti vždy rozhoduje většina, bez ohledu na Bitcoin Foundation.[16][17]
+
+V září 2021 čínská centrální banka označila všechny transakce v kryptoměnách za nezákonné a prohlásila, že musí být zakázané, což vedlo k oslabení bitcoinu.[18]
+
+Originalita bitcoinu spočívá v tom, že i přes skutečnost, že se jedná o software, není možné ho nijak zkopírovat. Můžete jej buď vytěžit nebo získat od někoho, kdo ho již vlastní. Tato kryptoměna přinesla opravdu technologický pokrok v platebním systému, který strčil do kapsy všechny banky.[19] Dnes už existuje mnoho způsobů, kde lze získat bitcoiny.
+
+Vlastnosti
+Na rozdíl od většiny měn není bitcoin závislý na důvěře k jejímu (centrálnímu) vydavateli ani prostředníkovi (bance, státu…). Pro provádění transakcí se využívá distribuovaná databáze napříč uzly peer-to-peer sítě.[20][21] Měna je tak závislá na široké komunitě. Sociální média tak mohou nepřímo ovlivňovat kurz bitcoinu.[22] K zabezpečení sítě je využita kryptografie, umožňující používat pouze peníze, které daný uživatel vlastní, a zabraňující opakovanému využití již utracených peněz.[23]
+
+
+Předpoklad růstu počtu bitcoinů do roku 2033
+Bitcoin umožňuje pseudonymní držení a převod měny. Bitcoiny mohou být uloženy v osobním počítači ve formě souboru s peněženkou nebo uchovávány pomocí služby třetí strany. Je však možné mít peněženku i zcela offline (na papíře) a lze zcela offline adresu vygenerovat. Peer-to-peer topologie a chybějící centrální autorita zabraňuje komukoliv manipulovat se zásobou této měny. Konečné množství bitcoinů v oběhu je předem dané, a proto není možné vyvolat umělou inflaci vytvořením množství většího.
+
+Celkové množství bitcoinů, které budou vytěženy, je přibližně 21 000 000 (přesněji 20 999 999,9769).[24] Růst se totiž postupně zpomaluje, a veškeré bitcoiny budou vytěženy v roce 2140 (drtivá většina však cca v roce 2030). Pokud tedy bude stále stejný zájem o novou měnu, dojde k deflaci. S tím je v protokolu počítáno, protože lze platit i zlomky bitcoinů. V současnosti[kdy?] má síť dělitelnost na 8 desetinných míst, je možné ji však rozšířit.[25]
+
+Základní princip fungování
+Uživatelé a těžaři
+Veškerá komunikace v síti probíhá pomocí počítačového programu (nebo jiného klienta, např. na mobilu), který komunikuje s dalšími uzly (účastníky). Účastníci jsou dvojího druhu: koncoví uživatelé a těžaři. Každý účastník může být koncový uživatel, těžař, anebo obojí.
+
+koncoví uživatelé jsou lidé, kteří si posílají bitcoiny. Každý uživatel má jednu nebo více peněženek, které slouží jako adresy pro platby. Současně si také udržují distribuovanou databázi všech proběhlých transakcí v síti – tzv. blockchain[20][21] (v případě plnohodnotného klienta; je možné se na databázi ptát jiného důvěryhodného uzlu, popř. si udržovat jen část). Tak každý uzel ví, která mince/část v síti patří které peněžence. Každé peněžence náleží soukromý a veřejný klíč. Pokud chce uživatel poslat peníze, vezme patřičný obnos svých mincí + případný poplatek (viz dále) a vytvoří transakci, kterou podepíše soukromým klíčem. Tuto informaci rozešle všem uzlům (uživatelům), ke kterým je připojen, ti to rozešlou dalším apod. do celé sítě. K příjemci se tak informace o platbě dostane téměř ihned (v řádu sekund), transakce však ještě není tzv. potvrzena.
+těžaři potvrzují transakce v síti. Těžař seskupí transakce čekající na potvrzení, přidá k nim odkaz na předchozí potvrzený blok transakcí a údaj zvaný kryptografická nonce. Snaží se najít takovou nonci, aby se hash SHA-2 nového bloku vešel pod sítí stanovený limit. Limit je nastaven tak, aby se to v celé síti dařilo průměrně jednou za 10 minut, takže nalezení vhodné nonce je obtížné a to tím více, čím výkonnější celá síť je. Těžař, kterému se nalezení nonce a tím i vytvoření a potvrzení nového bloku transakcí podaří, si ponechá veškeré poplatky ze zahrnutých transakcí a odměnu za potvrzení bloku. Odměna za potvrzení bloku je momentálně 6,25 BTC[26] (první půlení z 50 na 25 se odehrálo 28. listopadu 2012, druhé z 25 BTC na 12,5 BTC 9. července 2016 a poslední 11. května 2020 z 12,5 na současných 6,25) a jedná se o jediný a předem stanovený způsob emise nových bitcoinů. Odměna se však každých 210 000 bloků (tj. každé 4 roky) snižuje na polovinu a růst množství peněz zpomaluje. Těžař si může vybrat, které transakce do nového bloku zahrne a které ne (podle výše poplatku). Je důležité zmínit, že protože je síť anonymní, těžaři nevědí nic o odesílatelích ani příjemcích a jediným smysluplným kritériem pro zahrnutí nebo nezahrnutí transakce do bloku je právě zvolený poplatek. O tom, který těžař první nalezne vhodnou nonci (a rozhoduje o zařazení transakcí), rozhoduje náhoda. Transakční poplatky a odměna za potvrzení bloku jsou ekonomickou motivací činnosti těžařů. Snižováním odměny dojde ke stále většímu vyžadování transakčních poplatků.
+Nikdo jiný kromě uživatelů a těžařů v síti nefiguruje.
+
+Potvrzování transakcí
+Těžaři řeší umělý problém nalezení kryptografické nonce proto, aby potvrzení nového bloku bylo velice složité, a tedy i velice obtížně padělatelné, přitom ale snadno ověřitelné. Pokud by chtěl útočník změnit platební historii, musel by mít k dispozici výpočetní výkon větší, než je výpočetní výkon celého zbytku sítě. Tomuto teoretickému útoku se také říká 51% útok. Bitcoin počítá s tím, že takové množství výkonu žádná jedna entita nemá. I kdyby se to ale někomu povedlo, mohl by měnit pouze své vlastní transakce a zamezit potvrzování ostatních transakcí (tedy nemohl by například převádět cizí peníze k sobě ani stávající databázi nějak ničit).[27] 51% útok je nepravděpodobný, např. v květnu 2013 byla síť těžařů více než 60krát výkonnější než nejrychlejší superpočítač světa.[28][29] Získat nadpoloviční většinu výpočetního výkonu v celé síti by navíc bylo pro útočníky velmi nákladné. I kdyby byli ochotni investovat a opravdu síť tímto způsobem napadnout, klesla by důvěra v samotný bitcoin a s ním i jeho cena. Díky naprosté transparentnosti by totiž všichni uživatelé sítě snadno zjistili, že nejdelší větev na blockchainu, která je považována za platnou, je prodlužována pouze jedním uzlem. Pokud by 51% útok někdy proběhl, jednalo by se spíše o podkopání důvěry v samotnou bitcoinovou síť, než snaha o reálné odcizení prostředků.
+
+Každý nový blok odkazuje na předchozí blok, a tím potvrzuje i všechny předešlé transakce. Tudíž každá transakce je potvrzena tolikrát, kolik bloků bylo vytvořeno od prvního zahrnutí (včetně toho prvního bloku). Čím více potvrzení, tím obtížnější je padělatelnost celého procesu, a tím tedy více může příjemce věřit, že mu peníze skutečně přišly. Obecně se nízké částky (pití v automatu)[30][31] přijímají i bez potvrzení, běžné částky 1–3 potvrzení, originální klient bere transakci za zcela důvěryhodnou při 6 potvrzeních.[32]
+
+Obtížnost nalezení bloku (limit hashe) je každých 14 dní upravována podle aktuální výpočetní síly všech těžařů tak, aby byl nový blok uvolněn průměrně každých 10 minut.[33] Měna je tedy do sítě uvolňována přibližně stejnou rychlostí, nehledě na počet těžařů či celkový výkon v síti.
+
+Více o technických podrobnostech fungování česky viz[23][34]
+
+Peněženky a placení
+Každý uživatel má jednu nebo více peněženek/adres. Kvůli anonymitě je doporučeno pro každou příchozí platbu vygenerovat novou adresu (odesílatel pak neuvidí zůstatek příjemce, protože bude posílat peníze na prázdnou adresu). Ke generování adres ale dochází i interně; při odesílání nelze utratit pouze část, takže se automaticky vytvoří další vlastní adresa a platba se rozdělí na dva příjemce: na jednoho, kterého uživatel zadal, a zbytek částky se pošle zpět uživateli jako tzv. „drobné“ na nově vygenerovanou adresu.[zdroj?] Tuhle vlastnost však většina klientů před uživatelem zcela skryje; je tak vidět pouze v blockchainu.
+
+Vlastnictví peněženky není v síti nijak „vidět“. S penězi v dotyčné peněžence může nakládat ten, kdo vlastní soukromý klíč (typicky ten, kdo peněženku vytvořil). Zůstatek, který se uživateli zobrazuje v klientu, je pak pouze součtem peněz na těch peněženkách, od kterých má klient soukromý klíč.
+
+Z toho důvodu nemusí být příjemce při příjmu peněz k síti připojen; transakce proběhne stejně. Klient si při dalším spuštění jen zkontroluje pohyby na svých peněženkách a podle toho upraví zůstatek, který se zobrazí uživateli.
+
+Adresa je hash veřejného klíče (zhruba)[35] a aby se dala použít (poslat na ni peníze), nemusí být nikde v síti registrovaná. Síť ji poprvé uvidí až při vlastním poslání peněz. Adresu tak lze vytvořit zcela offline.
+
+Ztracená peněženka
+Aby se zabránilo překlepům při opisování adresy, má v sobě vestavěný kontrolní součet (nedá se tedy splést s pravděpodobností 1 : 4 mld.). Pokud by se tak přesto stalo (nebo někdo schválně dopočítal kontrolní součet neexistující adrese, jako např. adresa 1BitcoinEaterAddressDontSendf59kuE), peníze na tuto adresu budou navždy ztraceny. Stejně tak se stane, pokud uživatel ztratí peněženku (smaže ji) a nemá zálohu. V bitcoin síti neexistuje nic jako „ztracená peněženka“, protože nelze nijak poznat, že k ní nikdo nevlastní soukromý klíč. Pro ostatní účastníky sítě je taková událost prospěšná; velice mírně se zvýší hodnota jejich bitcoinů (dojde k deflaci). Analogií v reálném světě je spálení bankovek.[36]
+
+Začátkem roku 2018 se odhadovalo, že je nenávratně ztraceno více než tři miliony bitcoinů, což v té době byla pětina oběhu. V odhadu je ale zahrnut i milion bitcoinů vytěžených zakladatelem Satoshim.[37]
+
+Těžařská uskupení
+Protože je nalezení bloku náhodný proces, pro malé těžaře je výdělek velice nepředvídatelný. Těžaři se proto často sdružují do tzv. těžařských uskupení (mining pool) a zkoušejí štěstí společně. Pokud některý z nich nalezne blok, odměna se rozdělí mezi všechny těžaře. Hlavní výhodou je větší předvídatelnost; zatímco těžař s průměrnou grafickou kartou by našel blok v průměru až za 5 let a do té doby by nezískal nic[38] (květen 2013), v uskupení může dostávat poměrně malou část několikrát denně. Nevýhodou jsou pak obvyklé poplatky správcům uskupení v řádu procent.
+
+Technické řešení těžařského uskupení
+Na princip fungování těžařských uskupení přišel český programátor Marek Palatinus (slush), který také dodnes jedno z nejvýznamnějších uskupení provozuje.[39] Funguje to tak, že uskupení vytvoří téměř celý blok (zahrne všechny transakce apod.), jediné, co chybí, je kryptografická nonce, která spolu s ostatními údaji bude dávat správný hash (menší než hodnota stanovená sítí). Uskupení pak každému těžaři přidělí rozsah, ve kterém má nonci hledat. Těžař hlásí uskupení dílčí výsledky, které jsou menší, než hodnota daná uskupením. Hodnota daná uskupením je větší, než je potřeba na nový blok. Většina dílčích výsledků tak nevede na nový blok, ale uskupení dostává informace, že těžař na problému pracuje a podle počtu dílčích výsledků ho i odměňuje.[40]
+
+Protože pravidla bloku určuje správce uskupení, nikoli těžaři, má správce uskupení poměrně velký vliv. Je tak důležité, aby žádné uskupení nemělo nadpoloviční většinu těžařů, neboť by správce mohl rozhodovat, které transakce nezahrnout a síť by tak byla částečně centralizována.[27] Statistiky uskupení viz[41]
+
+Segregated Witness (Segwit)
+SegWit je upgrade bitcoin protokolu, který byl aktivován v roce 2017. Poprvé byl představen na konferenci Scaling Bitcoin v Hongkongu Bitcoin Core vývojářem Pietrem Wuillem.
+
+Tato inovace odděluje podpisová (signature) data z transakcí jako takových, což přináší několik výhod. Mezi ně patří efektivní zvětšení kapacity bloku, zlevnění transakcí nebo oprava chyby nazývané transaction malleability.
+
+Implementace technologie SegWit umožnila vývoj tzv. second layer scaling řešení, jako je lightning network.
+
+Koncoví uživatelé bitcoinu si mohou vybrat zda ho používat nebo ne výběrem odvození bitcoinových adres při generování bitcoinové peněženky z privátního klíče. Bitcoinové adresy podporující SegWit začínají buď číslicí 3 nebo písmeny bc.[42]
+
+Rozdělení bitcoinu
+Před 1. srpnem 2017 docházelo k hlasování těžařů o budoucí aktualizaci protokolu bitcoinu a jelikož hlasování nebylo úplně jednotné, tak se malá skupina těžařů odtrhla a vznikla nová virtuální měna nazývaná bitcoin cash. Někteří její významní podporovatelé, například investor Roger Ver, dokonce označují bitcoin cash za „ten pravý bitcoin“.[43] Argumentují hlavně v porovnání s bitcoinem nižšími transakčními poplatky, jež mají napomoci většímu rozšíření bitcoin cash mezi uživateli. O sedm měsíců později, v únoru 2018, byla přitom výše poplatků za transakce bitcoinem a bitcoin cash srovnatelná.[44]
+
+Později se od bitcoinu oddělila měna SegWit2×. Koncem roku 2017 bylo očekáváno oddělení (hardfork) třetí měny, ovšem 9. listopadu 2017 bylo oznámeno, že k tomuto dělení nedojde.[45]
+
+Hodnota bitcoinu
+
+2017:Bitcoin dosáhl 10000USD[46]
+Bitcoin je samostatná měna, zcela nezávislá na tradičních měnách jako koruna, euro apod. Hodnota bitcoinu – podobně jako většiny ostatních měn – vychází z poptávky a nabídky na trhu, a je tedy dána ekonomickou rovnováhou. Bitcoin není kryt zlatem ani jinými komoditami, ale podobně jako u jiných běžných měn je jeho hodnota závislá na důvěře, že s ním bude možno v budoucnu zaplatit stejně jako dnes.[47] Někteří autoři též poukazují na to, že už skutečnost, že existuje měna, která je nezávislá na rozhodnutí centrálních autorit, je sama o sobě hodnotná.[48]
+
+Jako jedno z rizik budoucí hodnoty bitcoinu je uváděn klesající podíl bitcoinu na celkové tržní kapitalizaci alternativních měn. Od roku 2013 do poloviny roku 2017 klesl podíl tržní kapitalizace bitcoinu oproti ostatním kryptoměnám ze zhruba 95 % na méně než 40 %.[49]
+
+Hodnota bitcoinu není určena počtem či výkonem těžařů: při zvýšení hodnoty se zvedne výkon těžařů, ne naopak. Těžaři neurčují hodnotu bitcoinu, ta je dána pouze poměrem mezi nabídkou a poptávkou.[50] Též bývá chybně uváděno, že je kryta vzácností, nepadělatelností apod. Tyto vlivy nemají přímou vazbu na hodnotu, ale na důvěru, která má vliv na nabídku a poptávku. Na hodnotě se tedy podílejí, ale nepřímo.
+
+V době doposud největší cenové bubliny bitcoinu 28. listopadu 2017 překročila hodnota této měny 10 000 USD (270 000 Kč) za 1 BTC.[46] Dva dny poté oznámila hlavní americká bitcoinová platforma Coinbase, že počet otevřených účtů překročil 13,3 milionů.[51] Cena tehdy nadále pokračovala v růstu až k 20 000 USD koncem roku 2017.
+
+Vůbec nejvyšší hodnoty Bitcoin dosáhl v březnu 2024, když cena za jednu minci překročila hranici 69 tisíc amerických dollarů.[52] Byl tím překonán původní rekord z listopadu roku 2021.[53]
+
+Hodnota bitcoinu v historii
+
+Hodnota bitcoinu v USD.
+
+Vývoj kurzu k americkému dolaru podle největší burzy MtGox (do roku 2014)
+Kurz bitcoinu se občas vyznačuje vysokou volatilitou, tedy prudkým kolísáním ceny v krátkém časovém úseku. Ze střednědobého a dlouhodobého hlediska však vykazuje neustálý nárůst.
+
+Bitcoin začínal jako čistě akademický projekt, kdy ho používali především odborníci a zájemci o technologii samotnou. Technologie však zaujala natolik, že hodnota bitcoinu po dlouhou dobu stoupala. To přivedlo i zájemce, kteří investují čistě ze spekulativních důvodů. Hodnota bitcoinu tak zažila za svoji krátkou existenci prudký růst, vrchol investiční bubliny i částečný pád.
